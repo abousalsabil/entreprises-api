@@ -1,0 +1,23 @@
+{
+  "name": "entreprises-api",
+  "version": "1.0.0",
+  "description": "annuaire entreprises textile habillement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abousalsabil/entreprises-api.git"
+  },
+  "author": "BELLOUMI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abousalsabil/entreprises-api/issues"
+  },
+  "homepage": "https://github.com/abousalsabil/entreprises-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
